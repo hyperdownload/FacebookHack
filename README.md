@@ -1,4 +1,5 @@
 Instalación
+
 pkg update && upgrade
 
 pkg install git
